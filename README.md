@@ -1,9 +1,10 @@
 # RFM_and_Association_Analysis
 
 RFM Nedir?
+
 RFM analizi müşteri analizi için kullanılan bir tekniktir. Müşteri satın alma alışkanlıklarını üzerinden gruplara ayrılması ve bu gruplar özelinden stratejiler geliştirilebilmesini sağlar. Genel olarak yapılacak iş, veri setindeki metrikleri skorlara çevirip onları bir araya getirip, isimlendirmek ve segmentleri analiz etmek olacak.
 
-add Codeadd Markdown
+
 İş Problemi
 Bir e-ticaret şirketi müşterilerini segmentlere ayırıp bu segmentlere göre pazarlama stratejileri belirlemek istemektedir.
 
@@ -13,7 +14,7 @@ Bir e-ticaret şirketi müşterilerini segmentlere ayırıp bu segmentlere göre
 
 Müşterileri RFM yöntemi ile segmentlere ayıracağız.
 
-add Codeadd Markdown
+
 Değişkenler
 
 InvoiceNo – Fatura Numarası
