@@ -1,4 +1,6 @@
 # RFM_and_Association_Analysis
+![1_whoXd048U-paqgrritF9dQ](https://user-images.githubusercontent.com/76479205/126834276-c5c51796-5926-4f01-bc77-f3f55b8f3498.png)
+
 
 RFM Nedir?
 
@@ -35,3 +37,8 @@ UnitPrice – Fatura fiyatı (Sterlin)
 CustomerID – Eşsiz müşteri numarası
 
 Country – Ülke ismi
+
+
+Daha fazla bilgi edinmek için bu konuda yazdığım medium yazısına aşağıdaki linkten ulaşabilirsiniz. 
+
+https://kutlucagdas.medium.com/rfm-analizi-nedir-ufak-bir-g%C3%B6z-gezdirelim-4ae56ef13d91
